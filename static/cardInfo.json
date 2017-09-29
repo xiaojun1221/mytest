@@ -1,0 +1,38 @@
+[
+    {
+        "id": 324,
+        "type":"商户绑定",
+        "account_type":"企业",
+        "bank":"招商银行",
+        "user":"于建华",
+        "account_number":"127910189610101",
+        "statu":"启用"
+    },
+    {
+        "id": 326,
+        "type":"委托结算",
+        "account_type":"个人",
+        "bank":"招商银行",
+        "user":"成雯敏",
+        "account_number":"6212253202000706136",
+        "statu":"启用"
+    },
+    {
+        "id": 327,
+        "type":"委托结算",
+        "account_type":"个人",
+        "bank":"中国工商银行",
+        "user":"林辉",
+        "account_number":"5229640613087938",
+        "statu":"启用"
+    },
+    {
+        "id": 328,
+        "type":"委托结算",
+        "account_type":"企业",
+        "bank":"中国建设银行",
+        "user":"王力",
+        "account_number":"5229640613087938",
+        "statu":"启用"
+    }
+]
